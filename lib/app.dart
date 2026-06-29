@@ -23,7 +23,7 @@ class RocketTrackerApp extends StatelessWidget {
       ),
       scaffoldBackgroundColor: const Color(0xFF0A0E1A),
       useMaterial3: true,
-      cardTheme: const CardTheme(
+      cardTheme: const CardThemeData(
         color: Color(0xFF141824),
         elevation: 0,
       ),
