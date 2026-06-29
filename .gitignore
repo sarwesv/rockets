@@ -1,0 +1,29 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# Generated platform dirs (created by flutter create / setup.sh)
+android/
+ios/
+macos/
+windows/
+linux/
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Credentials
+*.env
+api_keys.dart
