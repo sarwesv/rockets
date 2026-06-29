@@ -8,13 +8,8 @@
 build/
 pubspec.lock
 
-# Generated platform dirs (created by flutter create / setup.sh)
+# Android (not a target platform)
 android/
-ios/
-macos/
-windows/
-linux/
-web/
 
 # IDE
 .idea/
