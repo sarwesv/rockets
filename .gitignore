@@ -22,3 +22,4 @@ android/
 # Credentials
 *.env
 api_keys.dart
+.last_build_id
